@@ -2,7 +2,7 @@
 
 ## Install the requirements
 
-Recommend to install Anaconda/ Miniconda.
+Recommend to install Anaconda/ Miniconda with all the dependences needed.
 
 
 
@@ -10,7 +10,19 @@ Recommend to install Anaconda/ Miniconda.
 conda install requirements.yml
 ```
 
+## Minecraft Installment
 
+### Education
+
+Minecraft Education is free for Educational Purpose. You can download from the following link:
+
+[Get Minecraft for Your Classroom | Minecraft Education](https://education.minecraft.net/en-us)
+
+### Java
+
+Purchase and downalod from here: ($29.99)
+
+[Minecraft: Java & Bedrock Edition for PC Standard Edition](https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc)
 
 ## MC Amulet
 
@@ -93,3 +105,7 @@ On Linux or macOS, the `~` in the path refers to the home directory. Folders sta
 2. Type **the location above** and click "OK".
 
 [reference]([How to Transfer Your World to Another Device in Minecraft: Bedrock Edition | Minecraft Help](https://help.minecraft.net/hc/en-us/articles/4409165790605-How-to-Transfer-Your-World-to-Another-Device-in-Minecraft-Bedrock-Edition))
+
+## Acknowledgements
+
+We thanks for Minecraft Education, MC Amulet.
