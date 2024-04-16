@@ -1,14 +1,24 @@
-# Minecraft_paper
+# Minecraft_Workflow
+
+![minecraft edu](./images/minecraft.svg) ![amulet](./images/amulet.svg)![pyqt6](./images/pyqt6.svg)[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
+
+
 
 ## Install the requirements
 
-Recommend to install Anaconda/ Miniconda with all the dependences needed.
+Recommend to install Anaconda/ Miniconda with all the dependences needed:
 
+1. intstall the miniconda: 
 
+   [Installing Miniconda — Anaconda documentation](https://docs.anaconda.com/free/miniconda/miniconda-install/)
 
-```bash
-conda install requirements.yml
-```
+2. install the packages in miniconda
+
+   ```bash
+   conda install requirements.yml
+   ```
+
+   
 
 ## Minecraft Installment
 
