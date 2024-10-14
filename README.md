@@ -41,7 +41,7 @@ After you put the world in the proper directory, launch/restart your Minecraft, 
 │   └── /Human Epithelial Cells/
 │
 ├── /SchemGen_GUI/           # Generate schematics from segmented data with GUI
-│   ├── /GUI_source_code/    # Scripts to generate schematics
+│   ├── /src/                # source code
 │   └── /mcvis.exe/          # GUI
 │
 ├── /images/                 # images for readme.md 
