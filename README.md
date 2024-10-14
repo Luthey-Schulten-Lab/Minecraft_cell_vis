@@ -24,27 +24,27 @@ To quickly load and play with the cells we demonstrated in the paper, you can ju
 After you put the world in the proper directory, launch/restart your Minecraft, you should find the world in the Minecraft now.
 
 ## Repository Organization
-/repository roots
+/repository-root
 ├── /Schematics/             # Schematics files for Amulet/MCEdit/WorldEdit
 │
 ├── /Worlds/                 # Minecraft world files
 │   ├── /bedrock/            # Bedrock/Education edition worlds
-│   └── /java/               # Java edition worlds
+│   ├── /java/               # Java edition worlds
 │   └── /Empty/              # Empty worlds for DIY
 │
-├── /Resources/              # Segmented data and scripts for different cells examples
-│   └──/MinCell
-│   └──/Yeast
-│   └──/Breast Cancer Cells
-│   └──/Human Epithelial Cells
+├── /Resources/              # Segmented data and scripts for different cell examples
+│   ├── /MinCell/            
+│   ├── /Yeast/
+│   ├── /Breast Cancer Cells/
+│   └── /Human Epithelial Cells/
 │
-├── /SchemGen/               # Generate schematics from segmented data 
-│   └── /Scripts/            # Scripts to generate
-│   └── /GUI/                # GUI to generate
+├── /SchemGen/               # Generate schematics from segmented data
+│   ├── /Scripts/            # Scripts to generate schematics
+│   └── /GUI/                # GUI to generate schematics
 │
 ├── .gitignore               # Git ignore file to exclude unnecessary files
 ├── LICENSE                  # License file
-└──README.md                # Main README file (Project Overview)
+└── README.md                # Main README file (Project Overview)
 
 ## Prerequisite
 The entire workflow starting from segmented data (saved as .npys files) require the users to install:
