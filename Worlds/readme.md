@@ -7,10 +7,12 @@
 Please note that if you encounter compatibility issues with the world files, you can easily convert them using the following tool:  
 [Chunker World Converter](https://chunker.app/)
 
+## Templates
 
+The template worlds versions for Bedrock/Education is 1.20.10, and for Java is 1.20.0.
 ## Empty Minecraft Worlds
 
-Here, we offer two  Minecraft Worlds in Bedrock and Java certain versions, if you can not open the worlds with older versions, please use the world edition converter [chunker](https://chunker.app/).
+Here, we offer two empty Minecraft Worlds in Bedrock and Java certain versions, if you can not open the worlds with older versions, please use the world edition converter [chunker](https://chunker.app/).
 
 | World Name        | Description                                 | Version                  |
 | ----------------- | ------------------------------------------- | ------------------------ |
