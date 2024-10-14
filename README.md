@@ -125,18 +125,7 @@ If you are not satisfied with the Quick Start and want more freedom to create yo
 5. Launch/ Restart the Minecraft and Open the World.
 
 ## Information might be useful
-### Empty Minecraft Worlds
 
-Here, we offer two  Minecraft Worlds in Bedrock and Java certain versions, if you can not open the worlds with older versions, please use the world edition converter [chunker](https://chunker.app/).
-
-| World Name        | Description                                 | Version                  |
-| ----------------- | ------------------------------------------- | ------------------------ |
-| Void_Bedrock_Edu  | Void World with only one block              | Bedrock 1.19.0/Education |
-| One_Layer_Bedrock | World with only one layer of bedrock blocks | Bedrock1.19.0/Education  |
-| Void_Java         | Void World with only one block              | Java 1.20.0              |
-| One_Layer_Bedrock | World with only one layer of bedrock blocks | Java 1.20.0              |
-
-*Please note that Minecraft Education Edition uses the Bedrock Edition Minecraft World.*
 
 ### Place to put the world Files
 
