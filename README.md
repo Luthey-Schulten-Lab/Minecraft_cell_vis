@@ -24,6 +24,8 @@ To quickly load and play with the cells we demonstrated in the paper, you can ju
 After you put the world in the proper directory, launch/restart your Minecraft, you should find the world in the Minecraft now.
 
 ## Repository Organization
+
+```markdown
 /repository-root
 ├── /Schematics/             # Schematics files for Amulet/MCEdit/WorldEdit
 │
@@ -45,7 +47,7 @@ After you put the world in the proper directory, launch/restart your Minecraft, 
 ├── .gitignore               # Git ignore file to exclude unnecessary files
 ├── LICENSE                  # License file
 └── README.md                # Main README file (Project Overview)
-
+```
 ## Prerequisite
 The entire workflow starting from segmented data (saved as .npys files) require the users to install:
 
