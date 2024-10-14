@@ -40,9 +40,9 @@ After you put the world in the proper directory, launch/restart your Minecraft, 
 │   ├── /Breast Cancer Cells/
 │   └── /Human Epithelial Cells/
 │
-├── /SchemGen/               # Generate schematics from segmented data
-│   ├── /Scripts/            # Scripts to generate schematics
-│   └── /GUI/                # GUI to generate schematics
+├── /SchemGen_GUI/           # Generate schematics from segmented data with GUI
+│   ├── /src/                # source code
+│   └── /mcvis.exe/          # GUI
 │
 ├── /images/                 # images for readme.md 
 │
@@ -59,7 +59,7 @@ The entire workflow starting from segmented data (saved as .npys files) require 
 
 If you prefer to use use the worlds we already generate for our examples mentioned in the paper, you can directly download those worlds and put them under the Minecraft world directory. 
 
-### 1.Minecraft Installment
+### 1. Minecraft Installment
 
 Please be aware that there are different versions of Minecraft in different Operating System:
 Here’s a table comparing the different Minecraft editions and the corresponding operating systems they support:
@@ -72,22 +72,22 @@ Here’s a table comparing the different Minecraft editions and the correspondin
 
 We are aware there are other Minecraft versions for Mobile phones, VR headsets, etc. In such case, you should be able to start from schematic files and generate the corresponding worlds and put them under appropriate directories.
 
-#### 1.1Java Edition
+#### 1.1 Java Edition
 
 is the most versatile in terms of mods, custom servers, and community content but is only available on PC platforms (Windows, macOS, Linux). But it is not free, you can purchase and downalod from here: 
 
 [Minecraft: Java Edition for PC Standard Edition](https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc)
 
-#### 1.2Education Edition
+#### 1.2 Education Edition
 
 Minecraft Education is free for Educational Purpose. You can download from the following link:
 
 [Minecraft Education](https://education.minecraft.net/en-us)
 
-## 2.[Optional] Schematics Generation
+## 2. [Optional] Schematics Generation
 There are two ways to generate schematics from segemented data (npys) format: python script or GUI.
-### 2.1python scripts
-If you are familiar with python, we recommend you take a look of the template jupyter notebook and write your own for your own cell structures. 
+### 2.1 python scripts
+If you are familiar with python, we recommend you take a look of the template jupyter notebook and write your own for your own cell structures.  Templates are under `/sources/` together with segmented data.
 
 1. intstall the miniconda/Anaconda: 
 
@@ -103,11 +103,11 @@ If you are familiar with python, we recommend you take a look of the template ju
 
 3. Run corresponding jupyter notebooks saved under `/SchemGen/Scripts`
 
-### 2.2GUI
+### 2.2 GUI
 
 Alternatively, users might try out the GUI to import the segmented npys and generate schematics files with GUI. 
 
-## 3.[Optional] MC Amulet
+## 3. [Optional] MC Amulet
 **MC Amulet** is a versatile Minecraft world editor for both **Java** and **Bedrock Editions**. It enables users to modify world structures, import/export **schematic files**, and convert worlds between different versions. With features like **chunk management**, **NBT editing**, and a **3D visualization tool**, MC Amulet allows precise customization and efficient world editing. It’s ideal for transferring builds, optimizing worlds, and managing cross-platform projects.
 
 Here is the link [Amulet Editor (amuletmc.com)](https://www.amuletmc.com/)
