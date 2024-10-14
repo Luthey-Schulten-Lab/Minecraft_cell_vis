@@ -44,6 +44,8 @@ After you put the world in the proper directory, launch/restart your Minecraft, 
 │   ├── /Scripts/            # Scripts to generate schematics
 │   └── /GUI/                # GUI to generate schematics
 │
+├── /images/                 # images for readme.md 
+│
 ├── .gitignore               # Git ignore file to exclude unnecessary files
 ├── LICENSE                  # License file
 └── README.md                # Main README file (Project Overview)
