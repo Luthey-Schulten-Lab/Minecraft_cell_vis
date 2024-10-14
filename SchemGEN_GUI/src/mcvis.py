@@ -270,8 +270,8 @@ class MainWindow(QMainWindow, Ui_MainWindow):
                 return
             block = "minecraft:{}".format(self.file_blocktype[file_name])
             self.write_image(schem, bool_img, block)
-        
-        schem.save(os.path.dirname(save_path), os.path.basename(save_path), mcschematic.Version.JE_1_20)
+        print(os.path.basename(save_path))
+        schem.save(os.path.dirname(save_path), os.path.splitext(os.path.basename(save_path))[0], mcschematic.Version.JE_1_20)
         print("Scheme generated")
 
     def show_warning(self,msg: str):
