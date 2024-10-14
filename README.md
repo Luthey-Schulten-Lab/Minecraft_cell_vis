@@ -1,7 +1,7 @@
 # Visualizing Cell Structures with Minecraft
 Authors and Affiliation:
 Tianyu Wu<sup>1, 2, 3</sup>, Zane R. Thornburg<sup>4, 5</sup>, Kevin Tan<sup>3, 4, 6</sup>, Seth Kenkel<sup>3, 4</sup>, Stephen A. Boppart<sup>3, 4, 5, 6, 7, 10</sup>, Rohit Bhargava<sup>2, 3, 4, 5, 6, 7, 8, 9</sup>, Zaida Luthey-Schulten<sup>1, 2, 3, *</sup>
-https://orcid.org/0000-0001-9749-8367
+
 
 <sup>1</sup> Center for Biophysics and Quantitative Biology, University of Illinois at Urbana–Champaign, Urbana, IL, USA
 <sup>2</sup> Department of Chemistry, University of Illinois at Urbana–Champaign, Urbana, IL, USA
