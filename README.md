@@ -105,7 +105,7 @@ If you are familiar with python, we recommend you take a look of the template ju
 
 ### 2.2 GUI
 
-Alternatively, users might try out the GUI to import the segmented npys and generate schematics files with GUI. 
+Alternatively, users might try out the GUI to import the segmented npys and generate schematics files with GUI. Currently, the GUI is only available for Windows and Mac OS. And only support segmented data in `npy` and `tiff` format. 
 
 ## 3. [Optional] MC Amulet
 **MC Amulet** is a versatile Minecraft world editor for both **Java** and **Bedrock Editions**. It enables users to modify world structures, import/export **schematic files**, and convert worlds between different versions. With features like **chunk management**, **NBT editing**, and a **3D visualization tool**, MC Amulet allows precise customization and efficient world editing. It’s ideal for transferring builds, optimizing worlds, and managing cross-platform projects.
