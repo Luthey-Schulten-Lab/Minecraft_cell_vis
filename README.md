@@ -23,6 +23,7 @@ To quickly load and play with the cells we demonstrated in the paper, you can go
 
 After you put the world in the proper directory, launch/restart Minecraft, you should find the world in Minecraft now.
 
+[Quick Start Video](.\images\quick_start.mp4)
 ## Repository Organization
 
 ```markdown
