@@ -24,6 +24,11 @@ To quickly load and play with the cells we demonstrated in the paper, you can go
 After you put the world in the proper directory, launch/restart Minecraft, you should find the world in Minecraft now.
 
 
+
+https://github.com/user-attachments/assets/33ef624d-2ef2-4779-8476-844168eff06e
+
+
+
 ## Repository Organization
 
 ```markdown
