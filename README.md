@@ -125,7 +125,7 @@ Install if you want to import schematic files into a Minecraft world.
 If you are not satisfied with the Quick Start and want more freedom to create your own worlds with the segmented cell data provided or even your own segmented data, You should follow this workflow.
 
 1. convert your segmented cell data to binary 3-D matrix npy files. Different regions should have different npys with proper names. 
-2. Use python scripts or GUI to generate the schematic files. 
+2. Use python scripts or GUI to generate the schematic files. (For 2D images, you can use webtool: https://herhor.net/minecraft/imager/)
 3. Use MC Amulet to import schematic files into a Minecraft world. We include [Empty Minecraft Worlds](#empty-minecraft-worlds) for convenience. 
 4. Follow the instruction in [Quick Start](#quick-start) to put the world folder in the proper directory.
 5. Launch/ Restart the Minecraft and Open the World.
