@@ -15,7 +15,8 @@ Tianyu Wu<sup>1, 2, 3</sup>, Zane R. Thornburg<sup>4, 5</sup>, Kevin Tan<sup>3, 
 <sup>10</sup> NIH/NIBIB Center for Label-free Imaging and Multiscale Biophotonics
 
 
-![minecraft edu](./images/minecraft.svg) ![amulet](./images/amulet.svg)![pyqt6](./images/pyqt6.svg)[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
+![minecraft edu](./images/minecraft.svg) ![amulet](./images/amulet.svg)![pyqt6](./images/pyqt6.svg)[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 **NOT AN OFFICIAL MINECRAFT [PRODUCT/SERVICE/EVENT/etc.]. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.**
 ## Quick Start
 
