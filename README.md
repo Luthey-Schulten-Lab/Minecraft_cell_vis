@@ -16,7 +16,7 @@ Tianyu Wu<sup>1, 2, 3</sup>, Zane R. Thornburg<sup>4, 5</sup>, Kevin Tan<sup>3, 
 
 
 ![minecraft edu](./images/minecraft.svg) ![amulet](./images/amulet.svg)![pyqt6](./images/pyqt6.svg)[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
-
+**NOT AN OFFICIAL MINECRAFT [PRODUCT/SERVICE/EVENT/etc.]. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.**
 ## Quick Start
 
 To quickly load and play with the cells we demonstrated in the paper, you can go to the directoy `/Worlds` and choose the worlds based on your Edition (Education edition please choose Bedrock). Download the entire file, unzip and then put them under certain directories based on your OS and Minecraft Edition. (If you don't know, please check the section: [place to put the world Files](#place-to-put-the-world-files)).
