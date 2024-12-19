@@ -19,7 +19,7 @@ Tianyu Wu<sup>1, 2, 3</sup>, Zane R. Thornburg<sup>4, 5</sup>, Kevin Tan<sup>3, 
 
 ### **NOT AN OFFICIAL MINECRAFT [PRODUCT/SERVICE/EVENT/etc.]. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.**
 ## You can watch more demos on QCB youtube channel: 
-[![Watch the video](path_to_your_gif.gif)](https://youtube.com/playlist?list=PLR1Fx92RsGfWXiZm-Nqjf_glfWtq4bEVJ&si=EwhHNwTGRBpluElC)
+[![Watch the video](./images/yeast_demo.gif)](https://youtube.com/playlist?list=PLR1Fx92RsGfWXiZm-Nqjf_glfWtq4bEVJ&si=EwhHNwTGRBpluElC)
 ## Quick Start
 
 To quickly load and play with the cells we demonstrated in the paper, you can go to the directoy `/Worlds` and choose the worlds based on your Edition (Education edition please choose Bedrock). Download the entire file, unzip and then put them under certain directories based on your OS and Minecraft Edition. (If you don't know, please check the section: [place to put the world Files](#place-to-put-the-world-files)).
