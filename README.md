@@ -18,7 +18,7 @@ Tianyu Wu<sup>1, 2, 3</sup>, Zane R. Thornburg<sup>4, 5</sup>, Kevin Tan<sup>3, 
 ![minecraft edu](./images/minecraft.svg) ![amulet](./images/amulet.svg)![pyqt6](./images/pyqt6.svg)[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ### **NOT AN OFFICIAL MINECRAFT [PRODUCT/SERVICE/EVENT/etc.]. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.**
-## You can watch more demos on QCB youtube channel: 
+## You can watch more demos on QCB youtube channel by left click the video below: 
 [![Watch the video](./images/yeast_demo.gif)](https://youtube.com/playlist?list=PLR1Fx92RsGfWXiZm-Nqjf_glfWtq4bEVJ&si=EwhHNwTGRBpluElC)
 ## Quick Start
 
